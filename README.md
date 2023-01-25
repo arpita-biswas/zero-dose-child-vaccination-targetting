@@ -1,4 +1,6 @@
-## Performance of Predictive Algorithms in Estimating the Risk of Being a Zero-Dose Child in India, Mali, and Nigeria using Demographics and Health Surveys (DHS) data https://dhsprogram.com/data/
+## Zero-dose Risk Prediction
+
+Analysing the performance of predictive algorithms in estimating the risk of being a zero-Dose child in India, Mali, and Nigeria using Demographics and Health Surveys (DHS) data https://dhsprogram.com/data/
 
 
 The Code folder contains the following four Jupyter Notebook files: 
