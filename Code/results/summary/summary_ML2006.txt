@@ -1,0 +1,28 @@
+          cols  mean_cols  std_cols
+       any_vac   0.872131  0.334012
+          male   0.509016  0.500021
+   facdelivery   0.472541  0.499348
+      hh_urban   0.305738  0.460814
+   birth_order   4.104098  2.623072
+   mum_educlow   0.937705  0.241740
+mum_educhigher   0.003689  0.060634
+  npregnancies   0.391803  0.488253
+     firstpreg   0.189754  0.392187
+      hh_5plus   0.740574  0.438410
+            zd   0.127869  0.334012
+col_0          freq
+age_group          
+12-14      0.320082
+15-17      0.283607
+18-20      0.220902
+21-24      0.175410col_0        freq
+anc_cat          
+high     0.372131
+low      0.345902
+no       0.281967col_0          freq
+hh_wealth          
+middle     0.228279
+poorer     0.200410
+poorest    0.179508
+richer     0.213115
+richest    0.178689
